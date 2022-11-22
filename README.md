@@ -2,7 +2,7 @@
 
 
 
-🧑‍💻Data Scientist Intern at [BIX Tecnologia](https://www.bixtecnologia.com.br/)<br>🧑‍🎓Undergraduate in Control and Automation Engineering
+💻Data Scientist Intern at [BIX Tecnologia](https://www.bixtecnologia.com.br/)<br>🎓Undergraduate in Control and Automation Engineering
 
 
 
