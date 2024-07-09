@@ -3,7 +3,7 @@
 
 💻Data Science at [BIX Tech](https://www.bix-tech.com/)<br>
 
-🎓Undergraduate in Control and Automation Engineering
+🎓Control and Automation Engineer
 
 
 
