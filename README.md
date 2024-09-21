@@ -1,9 +1,9 @@
 ###  Hi, I’m @nicolasantero
 
 
-💻Data Science at [BIX Tech](https://www.bix-tech.com/)<br>
+💻 Consultant Data Scientist at [BIX Tech](https://www.bix-tech.com/)<br>
 
-🎓Control and Automation Engineer
+🎓 Control and Automation Engineer
 
 
 
