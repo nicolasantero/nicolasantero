@@ -3,9 +3,10 @@
 
 💻 Consultant Data Scientist at [BIX Tech](https://www.bix-tech.com/)<br>
 
-🎓 Control and Automation Engineer
+🎓 Control and Automation Engineer [UFSC](https://eas.ufsc.br/)
 
 
+Contact me on 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://br.linkedin.com/in/nicolas-antero-nunes/en) 
 
