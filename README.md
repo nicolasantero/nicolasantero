@@ -1,7 +1,7 @@
 ###  Hi, I’m @nicolasantero
 
 
-💻 Consultant Data Scientist at [BIX Tech](https://www.bix-tech.com/)<br>
+💻 AI Developer at [NETZSCH Group / LabV](https://analyzing-testing.netzsch.com/en/products/software/labv)
 
 🎓 Control and Automation Engineer [UFSC](https://eas.ufsc.br/)
 
