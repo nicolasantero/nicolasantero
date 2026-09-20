@@ -6,7 +6,7 @@
 
 Past experience:
 
-- AI Developer at [NETZSCH Group / LabV](https://analyzing-testing.netzsch.com/en/products/software/labv)
+- AI Engineer at [NETZSCH Group / LabV](https://analyzing-testing.netzsch.com/en/products/software/labv)
 
 
 Contact me on 
