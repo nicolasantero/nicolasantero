@@ -1,9 +1,12 @@
 ###  Hi, I’m @nicolasantero
 
-
-💻 AI Developer at [NETZSCH Group / LabV](https://analyzing-testing.netzsch.com/en/products/software/labv)
+💻 Machine Learning Engineer at [Mercado Livre](https://www.mercadolivre.com.br/)
 
 🎓 Control and Automation Engineer [UFSC](https://eas.ufsc.br/)
+
+Past experience:
+
+- AI Developer at [NETZSCH Group / LabV](https://analyzing-testing.netzsch.com/en/products/software/labv)
 
 
 Contact me on 
